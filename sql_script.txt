@@ -1,0 +1,121 @@
+################################################################################################################################
+###This SQL query reads creates a series of temp tables to add gender contribution data to the main contribution data table
+###It then runs a query on the months most recently entered to generate a CSV for addition to the R datafile
+###
+###Don't forget to convert Tanzania, Macedonia and Moldova to remove commas
+################################################################################################################################
+
+
+
+#set a user defined variabel as the month extracted in yyyymmdd format
+SET @extraction_date = 20130531;
+
+#manipulate extracted gender data into contributions table
+CREATE TABLE temp
+SELECT date,dateString,tcc,tccIso3Alpha,tccIso3Num,mission,eom_T AS eom,fpu_T AS fpu, ip_T AS ip,troops_T AS troops,ip_T+fpu_T AS police,eom_T AS observers,total_T AS total
+FROM gender
+WHERE gender.date=@extraction_date;
+
+ALTER TABLE temp ADD COLUMN milobvs INT DEFAULT 0;
+ALTER TABLE temp ADD COLUMN civpol INT DEFAULT 0;
+
+INSERT INTO contributions
+(date,dateString,tcc,tccIso3Alpha,tccIso3Num,mission,eom,milobvs,CIVPOL,fpu,ip,troops,police,observers,total)
+SELECT temp.date,temp.dateString,temp.tcc,temp.tccIso3Alcivpolmp.tccIso3Num,temp.mission,temp.eom,temp.milobvs,temp.CIVPOL,temp.fpu,temp.ip,temp.troops,temp.police,temp.observers,tempcivpol
+FROM temp;
+
+#generate data.full addition data
+CREATE TABLE temp2
+#generate full.data addition DONT FORGET TO SET DATE VALUE AS DATE EXTRACTED
+SELECT contributions.date AS date,
+		contributions.tcc AS tcc,
+	#tcc IDs
+		contributions.tccIso3Alpha AS tcc_iso3_alpha,
+	#tcc locators
+		tcc.capital AS tcc_cap,
+		tcc.capLong AS tcc_cap_long,
+		tcc.capLat AS tcc_cap_lat,
+		tcc.continent AS tcc_continent,
+		tcc.unregion AS tcc_unregion,
+	#tcc groupings
+		tcc.unbloc AS tcc_unbloc,
+		tcc.p5g4a3 AS tcc_p5g4a3,
+		tcc.nam AS tcc_nam,
+		tcc.g77 AS tcc_g77,
+		tcc.au AS tcc_au,
+		tcc.arabLeague AS tcc_arab_league,
+		tcc.oic AS tcc_oic,
+		tcc.cis AS tcc_cis,
+		tcc.g20 AS tcc_g20,
+		tcc.eu AS tcc_eu,
+	#mission IDs
+		contributions.mission,
+		mission.missionCountry AS mission_country,
+		mission.missioncountryIso3Alpha AS mission_iso3_alpha,
+	#mission locators
+		mission.missionHQ AS mission_hq,
+		mission.missionLong AS mission_hq_long,
+		mission.missionLat AS mission_hq_lat,
+		mission.missionContinent AS mission_continent,
+		mission.missionUnregion AS mission_un_region,
+	#mission groupings
+		mission.missionUnbloc AS mission_un_block,
+		mission.missionP5g4a3 AS mission_p5g4a3,
+		mission.missionNam AS mission_nam,
+		mission.missionG77 AS mission_g77,
+		mission.missionAU AS mission_au,
+		mission.missionArabLeague AS mission_arab_league,
+		mission.missionOic AS mission_oic,
+		mission.missionCis AS mission_cis,
+		mission.missionG20 AS mission_g20,
+		mission.missionEU AS mission_eu,
+	#contribution numbers
+		contributions.eom AS eom,
+		contributions.milobvs AS milobvs,
+		contributions.civpol AS civpol,
+		contributions.fpu AS fpu,
+		contributions.ip AS ip,
+		contributions.troops AS troops,
+		contributions.police AS police,
+		contributions.observers AS observers,
+		contributions.total AS total
+FROM tcc,contributions,
+	(SELECT mission.mission AS mission,
+				mission.missionCountry AS missionCountry,
+				mission.missioncountryIso3Alpha AS missioncountryIso3Alpha,
+				mission.missionHQ AS missionHQ,
+				mission.missionLong AS missionLong,
+				mission.missionLat AS missionLat,
+				tcc.continent AS missionContinent,
+				tcc.unbloc AS missionUnbloc,
+				tcc.unregion AS missionUnregion,
+				tcc.p5g4a3 AS missionP5g4a3,
+				tcc.nam AS missionNam,
+				tcc.g77 AS missionG77,
+				tcc.au AS missionAU,
+				tcc.arabLeague AS missionArabLeague,
+				tcc.oic AS missionOic,
+				tcc.cis AS missionCis,
+				tcc.g20 AS missionG20,
+				tcc.eu AS missionEU 
+		FROM mission,tcc
+		WHERE tcc.tccIso3Alpha=mission.missioncountryIso3Alpha) 
+	AS mission
+WHERE contributions.date=@extraction_date
+	AND tcc.tccIso3Alpha=contributions.tccIso3Alpha 
+	AND contributions.mission=mission.mission;
+
+#generate data.gender addition data
+CREATE TABLE temp3
+SELECT * FROM gender WHERE date=@extraction_date;
+
+################################
+###Working on this functionality
+################################
+#SELECT * INTO OUTFILE '~/Documents/contributions.csv' fields terminated by ',' from temp2;
+
+#SELECT * INTO OUTFILE '~/Documents/gender.csv' fields terminated by ',' from temp3;
+
+#DROP TABLE temp;
+#DROP TABLE temp2;
+#DROP TABLE temp3;
