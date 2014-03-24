@@ -1,0 +1,989 @@
+"date","tcc.unregion","tcc.continent","n.contributors","troops","police","observers","total"
+1990-11-30,"Northern America","North America",2,1035,NA,NA,1035
+1990-11-30,"South America","South America",7,139,NA,NA,139
+1990-12-31,"Northern America","North America",2,1035,NA,NA,1035
+1990-12-31,"South America","South America",7,139,NA,NA,139
+1991-01-31,"Northern America","North America",2,1035,NA,NA,1035
+1991-01-31,"South America","South America",7,139,NA,NA,139
+1991-02-28,"Northern America","North America",2,1035,NA,NA,1035
+1991-02-28,"South America","South America",7,139,NA,NA,139
+1991-03-31,"Northern America","North America",2,884,NA,NA,884
+1991-03-31,"South America","South America",7,104,NA,NA,104
+1991-04-30,"Northern America","North America",2,1196,NA,NA,1196
+1991-04-30,"South America","South America",7,177,NA,NA,177
+1991-05-31,"Northern America","North America",2,1197,NA,NA,1197
+1991-05-31,"South America","South America",7,169,NA,NA,169
+1991-06-30,"Northern America","North America",2,1200,NA,NA,1200
+1991-06-30,"South America","South America",7,168,NA,NA,168
+1991-07-31,"Northern America","North America",2,1206,NA,NA,1206
+1991-07-31,"South America","South America",7,183,NA,NA,183
+1991-08-31,"Northern America","North America",2,1202,NA,NA,1202
+1991-08-31,"South America","South America",7,183,NA,NA,183
+1991-09-30,"Northern America","North America",2,1259,NA,NA,1259
+1991-09-30,"South America","South America",8,212,20,NA,232
+1991-10-31,"Northern America","North America",2,1063,NA,NA,1063
+1991-10-31,"South America","South America",8,247,NA,NA,247
+1991-11-30,"Northern America","North America",2,1064,NA,NA,1064
+1991-11-30,"South America","South America",8,258,20,NA,278
+1991-12-31,"Northern America","North America",2,1043,NA,NA,1043
+1991-12-31,"South America","South America",8,232,20,NA,252
+1992-01-31,"Northern America","North America",2,1111,NA,NA,1111
+1992-01-31,"South America","South America",7,348,20,NA,368
+1992-02-29,"Central America","South America",1,NA,120,NA,120
+1992-02-29,"Northern America","North America",2,894,NA,NA,894
+1992-02-29,"South America","South America",7,287,21,NA,308
+1992-03-31,"Central America","South America",1,NA,110,NA,110
+1992-03-31,"Northern America","North America",2,1131,NA,NA,1131
+1992-03-31,"South America","South America",8,295,20,NA,315
+1992-04-30,"Central America","South America",1,NA,113,NA,113
+1992-04-30,"Northern America","North America",2,2210,NA,NA,2210
+1992-04-30,"South America","South America",9,1149,100,NA,1249
+1992-05-31,"Central America","South America",1,NA,113,NA,113
+1992-05-31,"Northern America","North America",2,2210,NA,NA,2210
+1992-05-31,"South America","South America",9,1149,100,NA,1249
+1992-06-30,"Central America","South America",1,NA,113,NA,113
+1992-06-30,"Northern America","North America",2,2210,NA,NA,2210
+1992-06-30,"South America","South America",9,1149,100,NA,1249
+1992-07-31,"Central America","South America",1,NA,113,NA,113
+1992-07-31,"Northern America","North America",2,2210,NA,NA,2210
+1992-07-31,"South America","South America",9,1149,100,NA,1249
+1992-08-31,"Central America","South America",2,NA,122,NA,122
+1992-08-31,"Northern America","North America",2,2215,30,181,2426
+1992-08-31,"South America","South America",8,1941,213,251,2405
+1992-09-30,"Central America","South America",3,NA,122,14,136
+1992-09-30,"Northern America","North America",2,2184,30,185,2399
+1992-09-30,"South America","South America",8,1940,291,199,2430
+1992-10-31,"Central America","South America",2,NA,111,14,125
+1992-10-31,"Northern America","North America",2,2174,45,183,2402
+1992-10-31,"South America","South America",8,1934,284,178,2396
+1992-11-30,"Central America","South America",2,NA,111,14,125
+1992-11-30,"Northern America","North America",2,3461,45,170,3676
+1992-11-30,"South America","South America",8,1897,284,179,2360
+1992-12-31,"Central America","South America",2,NA,111,14,125
+1992-12-31,"Northern America","North America",2,3516,45,160,3721
+1992-12-31,"South America","South America",8,1900,294,196,2390
+1993-01-31,"Central America","South America",2,NA,108,14,122
+1993-01-31,"Northern America","North America",2,3561,45,178,3784
+1993-01-31,"South America","South America",8,1911,279,195,2385
+1993-02-28,"Central America","South America",2,NA,108,14,122
+1993-02-28,"Northern America","North America",2,3510,47,177,3734
+1993-02-28,"South America","South America",8,1905,274,178,2357
+1993-03-31,"Central America","South America",2,NA,108,14,122
+1993-03-31,"Northern America","North America",2,3496,45,172,3713
+1993-03-31,"South America","South America",8,1915,274,172,2361
+1993-04-30,"Central America","South America",2,NA,107,14,121
+1993-04-30,"Northern America","North America",2,3580,47,177,3804
+1993-04-30,"South America","South America",8,2764,275,180,3219
+1993-05-31,"Central America","South America",2,NA,107,14,121
+1993-05-31,"Northern America","North America",2,6158,47,159,6364
+1993-05-31,"South America","South America",8,2769,286,176,3231
+1993-06-30,"Central America","South America",2,NA,107,14,121
+1993-06-30,"Northern America","North America",2,5894,47,163,6104
+1993-06-30,"South America","South America",8,2784,293,156,3233
+1993-07-31,"Central America","South America",2,NA,107,14,121
+1993-07-31,"Northern America","North America",2,6049,46,165,6260
+1993-07-31,"South America","South America",8,2782,296,156,3234
+1993-08-31,"Central America","South America",2,NA,97,14,111
+1993-08-31,"Northern America","North America",2,5947,46,170,6163
+1993-08-31,"South America","South America",8,1943,149,174,2266
+1993-09-30,"Central America","South America",2,NA,97,14,111
+1993-09-30,"Northern America","North America",2,5798,46,158,6002
+1993-09-30,"South America","South America",8,2013,156,182,2351
+1993-10-31,"Central America","South America",2,NA,50,16,66
+1993-10-31,"Northern America","North America",2,6526,45,132,6703
+1993-10-31,"South America","South America",8,2268,154,176,2598
+1993-11-30,"Central America","South America",2,NA,50,16,66
+1993-11-30,"Northern America","North America",2,6304,44,125,6473
+1993-11-30,"South America","South America",8,2259,158,169,2586
+1993-12-31,"Central America","South America",2,NA,50,16,66
+1993-12-31,"Northern America","North America",2,4538,46,126,4710
+1993-12-31,"South America","South America",8,2235,160,226,2621
+1994-01-31,"Central America","South America",2,2,50,14,66
+1994-01-31,"Northern America","North America",2,4209,46,123,4378
+1994-01-31,"South America","South America",8,2231,185,209,2625
+1994-02-28,"Central America","South America",2,2,50,14,66
+1994-02-28,"Northern America","North America",2,2828,46,128,3002
+1994-02-28,"South America","South America",8,2296,197,204,2697
+1994-03-31,"Central America","South America",2,2,49,14,65
+1994-03-31,"Northern America","North America",2,2851,46,129,3026
+1994-03-31,"South America","South America",7,2234,192,235,2661
+1994-04-30,"Central America","South America",2,2,49,14,65
+1994-04-30,"Northern America","North America",2,2999,45,128,3172
+1994-04-30,"South America","South America",7,2174,190,217,2581
+1994-05-31,"Central America","South America",2,2,39,14,55
+1994-05-31,"Northern America","North America",2,3132,45,128,3305
+1994-05-31,"South America","South America",7,2170,206,240,2616
+1994-06-30,"Central America","South America",2,2,39,14,55
+1994-06-30,"Northern America","North America",2,3140,46,118,3304
+1994-06-30,"South America","South America",7,2182,200,241,2623
+1994-07-31,"Central America","South America",2,2,38,14,54
+1994-07-31,"Northern America","North America",2,3437,46,108,3591
+1994-07-31,"South America","South America",7,2351,188,228,2767
+1994-08-31,"Central America","South America",2,2,37,14,53
+1994-08-31,"Northern America","North America",2,3514,46,120,3680
+1994-08-31,"South America","South America",7,2352,193,238,2783
+1994-09-30,"Central America","South America",2,2,29,14,45
+1994-09-30,"Northern America","North America",2,3486,45,119,3650
+1994-09-30,"South America","South America",7,2359,189,224,2772
+1994-10-31,"Central America","South America",2,NA,29,14,43
+1994-10-31,"Northern America","North America",2,3470,62,118,3650
+1994-10-31,"South America","South America",7,3111,206,210,3527
+1994-11-30,"Central America","South America",3,NA,4,16,20
+1994-11-30,"Northern America","North America",2,3441,63,122,3626
+1994-11-30,"South America","South America",7,2927,138,192,3257
+1994-12-31,"Caribbean","South America",1,NA,NA,4,4
+1994-12-31,"Central America","South America",2,NA,4,14,18
+1994-12-31,"Northern America","North America",2,3585,65,124,3774
+1994-12-31,"South America","South America",7,2932,136,195,3263
+1995-01-31,"Caribbean","South America",1,NA,NA,4,4
+1995-01-31,"Central America","South America",3,NA,4,16,20
+1995-01-31,"Northern America","North America",2,3346,68,118,3532
+1995-01-31,"South America","South America",7,1311,62,152,1525
+1995-02-28,"Caribbean","South America",1,NA,NA,4,4
+1995-02-28,"Central America","South America",3,NA,4,16,20
+1995-02-28,"Northern America","North America",2,3512,136,120,3768
+1995-02-28,"South America","South America",7,1315,77,164,1556
+1995-03-31,"Caribbean","South America",4,136,31,4,171
+1995-03-31,"Central America","South America",3,123,4,16,143
+1995-03-31,"Northern America","North America",2,6152,145,118,6415
+1995-03-31,"South America","South America",7,1380,156,161,1697
+1995-04-30,"Caribbean","South America",5,138,45,4,187
+1995-04-30,"Central America","South America",3,120,4,16,140
+1995-04-30,"Northern America","North America",2,6079,145,117,6341
+1995-04-30,"South America","South America",8,1403,171,161,1735
+1995-05-31,"Caribbean","South America",6,231,45,4,280
+1995-05-31,"Central America","South America",3,244,NA,16,260
+1995-05-31,"Northern America","North America",2,6173,103,115,6391
+1995-05-31,"South America","South America",7,2238,172,157,2567
+1995-06-30,"Caribbean","South America",6,231,45,4,280
+1995-06-30,"Central America","South America",3,244,NA,16,260
+1995-06-30,"Northern America","North America",2,6117,103,115,6335
+1995-06-30,"South America","South America",7,2248,169,155,2572
+1995-07-31,"Caribbean","South America",6,231,45,4,280
+1995-07-31,"Central America","South America",3,244,NA,16,260
+1995-07-31,"Northern America","North America",2,5993,99,117,6209
+1995-07-31,"South America","South America",7,1904,169,157,2230
+1995-08-31,"Caribbean","South America",6,231,45,4,280
+1995-08-31,"Central America","South America",3,244,NA,16,260
+1995-08-31,"Northern America","North America",2,6061,87,105,6253
+1995-08-31,"South America","South America",7,1908,168,155,2231
+1995-09-30,"Caribbean","South America",5,172,30,4,206
+1995-09-30,"Central America","South America",3,247,NA,16,263
+1995-09-30,"Northern America","North America",2,5312,97,101,5510
+1995-09-30,"South America","South America",7,1846,114,145,2105
+1995-10-31,"Caribbean","South America",5,176,30,4,210
+1995-10-31,"Central America","South America",3,242,NA,16,258
+1995-10-31,"Northern America","North America",2,5192,96,101,5389
+1995-10-31,"South America","South America",7,2458,115,159,2732
+1995-11-30,"Caribbean","South America",5,176,30,4,210
+1995-11-30,"Central America","South America",3,241,NA,16,257
+1995-11-30,"Northern America","North America",2,4464,95,101,4660
+1995-11-30,"South America","South America",7,2431,110,153,2694
+1995-12-31,"Caribbean","South America",5,175,20,4,199
+1995-12-31,"Central America","South America",3,180,NA,15,195
+1995-12-31,"Northern America","North America",2,3821,93,100,4014
+1995-12-31,"South America","South America",6,2420,86,141,2647
+1996-01-31,"Caribbean","South America",1,NA,NA,4,4
+1996-01-31,"Central America","South America",3,11,NA,19,30
+1996-01-31,"Northern America","North America",2,3220,93,92,3405
+1996-01-31,"South America","South America",5,2356,40,136,2532
+1996-02-29,"Caribbean","South America",1,NA,NA,4,4
+1996-02-29,"Central America","South America",2,NA,NA,16,16
+1996-02-29,"Northern America","North America",2,2953,93,77,3123
+1996-02-29,"South America","South America",5,2187,33,125,2345
+1996-03-31,"Caribbean","South America",2,1,7,4,12
+1996-03-31,"Central America","South America",2,NA,NA,16,16
+1996-03-31,"Northern America","North America",2,1645,108,75,1828
+1996-03-31,"South America","South America",5,2369,54,105,2528
+1996-04-30,"Caribbean","South America",2,1,7,4,12
+1996-04-30,"Central America","South America",2,NA,NA,16,16
+1996-04-30,"Northern America","North America",2,1509,198,75,1782
+1996-04-30,"South America","South America",5,2362,48,97,2507
+1996-05-31,"Caribbean","South America",2,1,7,4,12
+1996-05-31,"Central America","South America",2,NA,NA,16,16
+1996-05-31,"Northern America","North America",2,1495,291,73,1859
+1996-05-31,"South America","South America",5,2453,122,96,2671
+1996-06-30,"Caribbean","South America",2,1,7,4,12
+1996-06-30,"Central America","South America",2,NA,NA,16,16
+1996-06-30,"Northern America","North America",2,1493,285,69,1847
+1996-06-30,"South America","South America",5,2466,103,94,2663
+1996-07-31,"Caribbean","South America",2,1,7,3,11
+1996-07-31,"Central America","South America",2,NA,NA,16,16
+1996-07-31,"Northern America","North America",2,1460,304,56,1820
+1996-07-31,"South America","South America",5,2381,92,182,2655
+1996-08-31,"Caribbean","South America",2,1,7,3,11
+1996-08-31,"Central America","South America",2,NA,NA,14,14
+1996-08-31,"Northern America","North America",2,1350,302,53,1705
+1996-08-31,"South America","South America",5,2477,140,91,2708
+1996-09-30,"Caribbean","South America",2,1,7,3,11
+1996-09-30,"Central America","South America",2,NA,NA,14,14
+1996-09-30,"Northern America","North America",2,1384,297,53,1734
+1996-09-30,"South America","South America",5,2478,89,93,2660
+1996-10-31,"Caribbean","South America",2,1,7,3,11
+1996-10-31,"Central America","South America",2,NA,NA,14,14
+1996-10-31,"Northern America","North America",2,1430,332,53,1815
+1996-10-31,"South America","South America",5,2446,89,88,2623
+1996-11-30,"Caribbean","South America",2,1,7,4,12
+1996-11-30,"Central America","South America",2,NA,NA,14,14
+1996-11-30,"Northern America","North America",2,1433,333,53,1819
+1996-11-30,"South America","South America",5,2449,87,94,2630
+1996-12-31,"Caribbean","South America",1,NA,NA,4,4
+1996-12-31,"Central America","South America",2,NA,NA,14,14
+1996-12-31,"Northern America","North America",2,1421,330,52,1803
+1996-12-31,"South America","South America",5,2295,87,93,2475
+1997-01-31,"Caribbean","South America",1,NA,NA,4,4
+1997-01-31,"Central America","South America",2,NA,NA,14,14
+1997-01-31,"Northern America","North America",2,1438,358,51,1847
+1997-01-31,"South America","South America",6,2315,91,99,2505
+1997-02-28,"Caribbean","South America",1,NA,NA,4,4
+1997-02-28,"Central America","South America",2,NA,NA,14,14
+1997-02-28,"Northern America","North America",2,1394,353,71,1818
+1997-02-28,"South America","South America",7,2180,110,144,2434
+1997-03-31,"Caribbean","South America",1,NA,NA,4,4
+1997-03-31,"Central America","South America",2,NA,NA,14,14
+1997-03-31,"Northern America","North America",2,1432,358,71,1861
+1997-03-31,"South America","South America",7,1513,114,143,1770
+1997-04-30,"Caribbean","South America",1,NA,NA,4,4
+1997-04-30,"Central America","South America",2,NA,NA,14,14
+1997-04-30,"Northern America","North America",2,1457,342,71,1870
+1997-04-30,"South America","South America",7,1497,111,141,1749
+1997-05-31,"Caribbean","South America",1,NA,NA,4,4
+1997-05-31,"Central America","South America",2,NA,NA,14,14
+1997-05-31,"Northern America","North America",2,1466,359,51,1876
+1997-05-31,"South America","South America",5,1288,108,88,1484
+1997-06-30,"Caribbean","South America",1,NA,NA,4,4
+1997-06-30,"Central America","South America",2,NA,NA,14,14
+1997-06-30,"Northern America","North America",2,1451,404,52,1907
+1997-06-30,"South America","South America",5,1244,109,85,1438
+1997-07-31,"Caribbean","South America",1,NA,NA,1,1
+1997-07-31,"Central America","South America",2,NA,NA,14,14
+1997-07-31,"Northern America","North America",2,1435,386,54,1875
+1997-07-31,"South America","South America",5,953,126,87,1166
+1997-08-31,"Caribbean","South America",1,NA,NA,1,1
+1997-08-31,"Central America","South America",2,NA,NA,14,14
+1997-08-31,"Northern America","North America",2,1373,383,49,1805
+1997-08-31,"South America","South America",5,503,142,85,730
+1997-09-30,"Caribbean","South America",1,NA,NA,1,1
+1997-09-30,"Central America","South America",2,NA,NA,14,14
+1997-09-30,"Northern America","North America",2,1267,372,49,1688
+1997-09-30,"South America","South America",5,454,140,85,679
+1997-10-31,"Caribbean","South America",1,NA,NA,1,1
+1997-10-31,"Central America","South America",2,NA,NA,14,14
+1997-10-31,"Northern America","North America",2,1298,348,49,1695
+1997-10-31,"South America","South America",5,451,145,82,678
+1997-11-30,"Central America","South America",2,NA,NA,14,14
+1997-11-30,"Northern America","North America",2,1158,319,49,1526
+1997-11-30,"South America","South America",5,454,146,79,679
+1997-12-31,"Central America","South America",2,NA,NA,14,14
+1997-12-31,"Northern America","North America",2,537,312,49,898
+1997-12-31,"South America","South America",5,453,278,71,802
+1998-01-31,"Central America","South America",2,NA,NA,14,14
+1998-01-31,"Northern America","North America",2,534,208,49,791
+1998-01-31,"South America","South America",5,453,279,61,793
+1998-02-28,"Central America","South America",2,NA,NA,14,14
+1998-02-28,"Northern America","North America",2,590,308,48,946
+1998-02-28,"South America","South America",5,453,270,66,789
+1998-03-31,"Central America","South America",2,NA,NA,14,14
+1998-03-31,"Northern America","North America",2,538,316,49,903
+1998-03-31,"South America","South America",5,455,264,63,782
+1998-04-30,"Central America","South America",2,NA,NA,14,14
+1998-04-30,"Northern America","North America",2,696,265,47,1008
+1998-04-30,"South America","South America",5,455,271,63,789
+1998-05-31,"Central America","South America",2,NA,NA,14,14
+1998-05-31,"Northern America","North America",2,705,295,47,1047
+1998-05-31,"South America","South America",5,463,265,64,792
+1998-06-30,"Central America","South America",2,NA,NA,14,14
+1998-06-30,"Northern America","North America",2,693,315,47,1055
+1998-06-30,"South America","South America",5,467,285,64,816
+1998-07-31,"Central America","South America",2,NA,NA,14,14
+1998-07-31,"Northern America","North America",2,681,313,47,1041
+1998-07-31,"South America","South America",5,467,280,62,809
+1998-08-31,"Central America","South America",2,NA,NA,14,14
+1998-08-31,"Northern America","North America",2,683,306,47,1036
+1998-08-31,"South America","South America",5,468,266,61,795
+1998-09-30,"Central America","South America",2,NA,NA,14,14
+1998-09-30,"Northern America","North America",2,689,310,48,1047
+1998-09-30,"South America","South America",5,466,261,59,786
+1998-10-31,"Central America","South America",2,NA,NA,14,14
+1998-10-31,"Northern America","North America",2,689,272,48,1009
+1998-10-31,"South America","South America",5,465,268,59,792
+1998-11-30,"Central America","South America",2,NA,NA,14,14
+1998-11-30,"Northern America","North America",2,695,254,48,997
+1998-11-30,"South America","South America",5,463,265,60,788
+1998-12-31,"Central America","South America",2,NA,NA,14,14
+1998-12-31,"Northern America","North America",2,695,254,48,997
+1998-12-31,"South America","South America",5,463,265,60,788
+1999-01-31,"Central America","South America",2,NA,NA,14,14
+1999-01-31,"Northern America","North America",2,705,283,47,1035
+1999-01-31,"South America","South America",5,477,196,53,726
+1999-02-28,"Central America","South America",2,NA,NA,13,13
+1999-02-28,"Northern America","North America",2,602,287,47,936
+1999-02-28,"South America","South America",5,500,218,52,770
+1999-03-31,"Central America","South America",2,NA,NA,14,14
+1999-03-31,"Northern America","North America",2,242,275,46,563
+1999-03-31,"South America","South America",5,530,210,48,788
+1999-04-30,"Central America","South America",2,NA,NA,17,17
+1999-04-30,"Northern America","North America",2,215,247,46,508
+1999-04-30,"South America","South America",5,513,173,45,731
+1999-05-31,"Central America","South America",2,NA,NA,17,17
+1999-05-31,"Northern America","North America",2,368,250,46,664
+1999-05-31,"South America","South America",5,582,203,48,833
+1999-06-30,"Central America","South America",2,NA,NA,17,17
+1999-06-30,"Northern America","North America",2,345,235,35,615
+1999-06-30,"South America","South America",5,582,211,44,837
+1999-07-31,"Central America","South America",2,NA,NA,14,14
+1999-07-31,"Northern America","North America",2,351,254,47,652
+1999-07-31,"South America","South America",6,592,188,49,829
+1999-08-31,"Central America","South America",2,NA,3,14,17
+1999-08-31,"Northern America","North America",2,264,434,46,744
+1999-08-31,"South America","South America",7,592,234,54,880
+1999-09-30,"Central America","South America",2,NA,3,14,17
+1999-09-30,"Northern America","North America",2,248,732,54,1034
+1999-09-30,"South America","South America",7,581,237,75,893
+1999-10-31,"Central America","South America",2,NA,3,14,17
+1999-10-31,"Northern America","North America",2,216,724,52,992
+1999-10-31,"South America","South America",7,581,261,86,928
+1999-11-30,"Central America","South America",2,NA,3,14,17
+1999-11-30,"Northern America","North America",2,216,724,52,992
+1999-11-30,"South America","South America",7,581,261,86,928
+1999-12-31,"Central America","South America",2,NA,NA,14,14
+1999-12-31,"Northern America","North America",2,193,785,53,1031
+1999-12-31,"South America","South America",6,496,214,86,796
+2000-01-31,"Central America","South America",2,NA,3,14,17
+2000-01-31,"Northern America","North America",2,192,759,58,1009
+2000-01-31,"South America","South America",7,490,235,92,817
+2000-02-28,"Central America","South America",2,NA,3,14,17
+2000-02-28,"Northern America","North America",2,356,869,59,1284
+2000-02-28,"South America","South America",7,579,236,93,908
+2000-03-31,"Central America","South America",2,NA,3,14,17
+2000-03-31,"Northern America","North America",2,189,856,61,1106
+2000-03-31,"South America","South America",7,597,117,100,814
+2000-04-30,"Caribbean","South America",1,NA,16,NA,16
+2000-04-30,"Central America","South America",2,NA,3,14,17
+2000-04-30,"Northern America","North America",2,195,895,61,1151
+2000-04-30,"South America","South America",7,597,128,101,826
+2000-05-31,"Caribbean","South America",1,NA,16,NA,16
+2000-05-31,"Central America","South America",2,NA,3,14,17
+2000-05-31,"Northern America","North America",2,187,909,61,1157
+2000-05-31,"South America","South America",8,597,101,112,810
+2000-06-30,"Caribbean","South America",1,NA,16,NA,16
+2000-06-30,"Central America","South America",2,NA,3,14,17
+2000-06-30,"Northern America","North America",2,196,888,61,1145
+2000-06-30,"South America","South America",8,599,110,109,818
+2000-07-31,"Caribbean","South America",1,NA,15,NA,15
+2000-07-31,"Central America","South America",2,NA,3,14,17
+2000-07-31,"Northern America","North America",2,191,955,70,1216
+2000-07-31,"South America","South America",8,600,96,111,807
+2000-08-31,"Caribbean","South America",1,NA,15,NA,15
+2000-08-31,"Central America","South America",2,NA,3,14,17
+2000-08-31,"Northern America","North America",2,196,924,65,1185
+2000-08-31,"South America","South America",8,621,91,110,822
+2000-09-30,"Caribbean","South America",1,NA,15,NA,15
+2000-09-30,"Central America","South America",2,NA,3,14,17
+2000-09-30,"Northern America","North America",2,189,930,63,1182
+2000-09-30,"South America","South America",8,618,91,112,821
+2000-10-31,"Caribbean","South America",1,NA,15,NA,15
+2000-10-31,"Central America","South America",2,NA,3,14,17
+2000-10-31,"Northern America","North America",2,189,948,65,1202
+2000-10-31,"South America","South America",8,621,57,116,794
+2000-11-30,"Caribbean","South America",1,NA,15,NA,15
+2000-11-30,"Central America","South America",2,NA,3,14,17
+2000-11-30,"Northern America","North America",2,245,988,69,1302
+2000-11-30,"South America","South America",8,624,50,112,786
+2000-12-31,"Caribbean","South America",1,NA,15,NA,15
+2000-12-31,"Central America","South America",2,NA,1,14,15
+2000-12-31,"Northern America","North America",2,425,961,67,1453
+2000-12-31,"South America","South America",8,618,39,108,765
+2001-01-31,"Caribbean","South America",1,NA,15,NA,15
+2001-01-31,"Central America","South America",2,NA,1,14,15
+2001-01-31,"Northern America","North America",2,437,949,73,1459
+2001-01-31,"South America","South America",9,606,80,103,789
+2001-02-28,"Caribbean","South America",1,NA,15,NA,15
+2001-02-28,"Central America","South America",2,NA,1,14,15
+2001-02-28,"Northern America","North America",2,437,949,73,1459
+2001-02-28,"South America","South America",9,606,80,103,789
+2001-03-31,"Caribbean","South America",1,NA,15,NA,15
+2001-03-31,"Central America","South America",2,NA,1,14,15
+2001-03-31,"Northern America","North America",2,430,936,74,1440
+2001-03-31,"South America","South America",9,608,80,107,795
+2001-04-30,"Central America","South America",2,NA,1,14,15
+2001-04-30,"Northern America","North America",2,432,930,74,1436
+2001-04-30,"South America","South America",9,840,195,117,1152
+2001-05-31,"Central America","South America",2,NA,1,14,15
+2001-05-31,"Northern America","North America",2,418,917,70,1405
+2001-05-31,"South America","South America",9,882,172,105,1159
+2001-06-30,"Central America","South America",2,NA,1,14,15
+2001-06-30,"Northern America","North America",2,199,857,69,1125
+2001-06-30,"South America","South America",9,1036,175,135,1346
+2001-07-31,"Central America","South America",2,NA,1,14,15
+2001-07-31,"Northern America","North America",2,197,839,69,1105
+2001-07-31,"South America","South America",8,1045,178,140,1363
+2001-08-31,"Central America","South America",2,NA,1,14,15
+2001-08-31,"Northern America","North America",2,203,803,69,1075
+2001-08-31,"South America","South America",8,1020,181,141,1342
+2001-09-30,"Central America","South America",2,NA,1,14,15
+2001-09-30,"Northern America","North America",2,194,789,66,1049
+2001-09-30,"South America","South America",8,1015,99,144,1258
+2001-10-31,"Central America","South America",2,NA,1,14,15
+2001-10-31,"Northern America","North America",2,194,854,66,1114
+2001-10-31,"South America","South America",8,1593,181,146,1920
+2001-11-30,"Central America","South America",2,NA,1,14,15
+2001-11-30,"Northern America","North America",2,206,827,65,1098
+2001-11-30,"South America","South America",8,1559,183,140,1882
+2001-12-31,"Central America","South America",2,NA,1,14,15
+2001-12-31,"Northern America","North America",2,192,792,61,1045
+2001-12-31,"South America","South America",8,1559,177,144,1880
+2002-01-31,"Central America","South America",2,NA,1,16,17
+2002-01-31,"Northern America","North America",2,191,817,53,1061
+2002-01-31,"South America","South America",8,1558,175,143,1876
+2002-02-28,"Central America","South America",2,NA,1,16,17
+2002-02-28,"Northern America","North America",2,198,819,53,1070
+2002-02-28,"South America","South America",8,1758,179,142,2079
+2002-03-31,"Central America","South America",2,NA,1,16,17
+2002-03-31,"Northern America","North America",2,198,761,55,1014
+2002-03-31,"South America","South America",8,1760,158,142,2060
+2002-04-30,"Central America","South America",2,NA,1,16,17
+2002-04-30,"Northern America","North America",2,195,745,53,993
+2002-04-30,"South America","South America",8,1758,181,143,2082
+2002-05-31,"Central America","South America",2,NA,1,16,17
+2002-05-31,"Northern America","North America",2,197,718,51,966
+2002-05-31,"South America","South America",9,1787,182,150,2119
+2002-06-30,"Central America","South America",2,NA,1,16,17
+2002-06-30,"Northern America","North America",2,203,693,51,947
+2002-06-30,"South America","South America",9,2262,195,146,2603
+2002-07-31,"Central America","South America",2,NA,1,16,17
+2002-07-31,"Northern America","North America",2,201,708,49,958
+2002-07-31,"South America","South America",9,2272,204,141,2617
+2002-08-30,"Central America","South America",2,NA,1,16,17
+2002-08-30,"Northern America","North America",2,209,709,49,967
+2002-08-30,"South America","South America",9,2244,202,147,2593
+2002-09-30,"Central America","South America",2,NA,1,16,17
+2002-09-30,"Northern America","North America",2,200,660,49,909
+2002-09-30,"South America","South America",9,2246,201,145,2592
+2002-10-31,"Central America","South America",2,NA,NA,16,16
+2002-10-31,"Northern America","North America",2,199,685,50,934
+2002-10-31,"South America","South America",8,2252,189,138,2579
+2002-11-30,"Central America","South America",2,NA,NA,16,16
+2002-11-30,"Northern America","North America",2,199,685,51,935
+2002-11-30,"South America","South America",8,2303,189,139,2631
+2002-12-31,"Central America","South America",2,NA,NA,16,16
+2002-12-31,"Northern America","North America",2,200,648,46,894
+2002-12-31,"South America","South America",8,2316,172,134,2622
+2003-01-31,"Central America","South America",2,NA,NA,10,10
+2003-01-31,"Northern America","North America",2,200,629,43,872
+2003-01-31,"South America","South America",8,2328,168,136,2632
+2003-02-28,"Central America","South America",2,NA,NA,17,17
+2003-02-28,"Northern America","North America",2,201,599,42,842
+2003-02-28,"South America","South America",8,2353,167,131,2651
+2003-03-30,"Central America","South America",2,NA,NA,17,17
+2003-03-30,"Northern America","North America",2,201,618,33,852
+2003-03-30,"South America","South America",7,2317,166,119,2602
+2003-04-30,"Central America","South America",2,NA,NA,17,17
+2003-04-30,"Northern America","North America",2,201,586,33,820
+2003-04-30,"South America","South America",7,2300,166,121,2587
+2003-05-31,"Central America","South America",2,NA,NA,17,17
+2003-05-31,"Northern America","North America",2,201,567,33,801
+2003-05-31,"South America","South America",7,2205,163,131,2499
+2003-06-30,"Central America","South America",2,NA,NA,17,17
+2003-06-30,"Northern America","North America",2,200,557,28,785
+2003-06-30,"South America","South America",7,2408,162,129,2699
+2003-07-31,"Central America","South America",2,NA,NA,16,16
+2003-07-31,"Northern America","North America",2,198,544,27,769
+2003-07-31,"South America","South America",7,2401,161,136,2698
+2003-08-31,"Central America","South America",2,NA,NA,16,16
+2003-08-31,"Northern America","North America",2,197,465,28,690
+2003-08-31,"South America","South America",7,2405,160,129,2694
+2003-09-30,"Central America","South America",2,NA,NA,11,11
+2003-09-30,"Northern America","North America",2,197,444,28,669
+2003-09-30,"South America","South America",7,2525,121,131,2777
+2003-10-31,"Central America","South America",2,NA,NA,17,17
+2003-10-31,"Northern America","North America",2,198,477,28,703
+2003-10-31,"South America","South America",7,2544,156,131,2831
+2003-11-30,"Central America","South America",2,NA,NA,17,17
+2003-11-30,"Northern America","North America",2,200,522,33,755
+2003-11-30,"South America","South America",8,2495,158,145,2798
+2003-12-31,"Central America","South America",2,NA,NA,17,17
+2003-12-31,"Northern America","North America",2,194,521,36,751
+2003-12-31,"South America","South America",8,2496,154,147,2797
+2004-01-31,"Central America","South America",2,NA,NA,23,23
+2004-01-31,"Northern America","North America",2,195,484,36,715
+2004-01-31,"South America","South America",8,2500,156,147,2803
+2004-02-28,"Central America","South America",2,NA,NA,17,17
+2004-02-28,"Northern America","North America",2,206,503,35,744
+2004-02-28,"South America","South America",8,2491,156,151,2798
+2004-03-31,"Central America","South America",2,NA,NA,20,20
+2004-03-31,"Northern America","North America",2,206,476,35,717
+2004-03-31,"South America","South America",8,2610,155,151,2916
+2004-04-30,"Central America","South America",3,NA,NA,26,26
+2004-04-30,"Northern America","North America",2,200,554,35,789
+2004-04-30,"South America","South America",8,2500,154,158,2812
+2004-05-31,"Central America","South America",3,NA,1,26,27
+2004-05-31,"Northern America","North America",2,212,526,24,762
+2004-05-31,"South America","South America",8,2745,163,146,3054
+2004-06-30,"Caribbean","South America",1,NA,NA,4,4
+2004-06-30,"Central America","South America",3,NA,1,27,28
+2004-06-30,"Northern America","North America",2,700,502,31,1233
+2004-06-30,"South America","South America",8,4156,149,152,4457
+2004-07-31,"Caribbean","South America",2,NA,10,4,14
+2004-07-31,"Central America","South America",3,NA,1,29,30
+2004-07-31,"Northern America","North America",2,512,447,32,991
+2004-07-31,"South America","South America",8,4526,151,151,4828
+2004-08-31,"Caribbean","South America",2,NA,10,4,14
+2004-08-31,"Central America","South America",3,1,1,29,31
+2004-08-31,"Northern America","North America",2,216,447,32,695
+2004-08-31,"South America","South America",8,5326,151,161,5638
+2004-09-30,"Caribbean","South America",2,NA,10,4,14
+2004-09-30,"Central America","South America",3,1,3,35,39
+2004-09-30,"Northern America","North America",2,208,409,32,649
+2004-09-30,"South America","South America",8,5408,193,159,5760
+2004-10-31,"Caribbean","South America",2,NA,10,4,14
+2004-10-31,"Central America","South America",3,71,3,29,103
+2004-10-31,"Northern America","North America",2,205,436,32,673
+2004-10-31,"South America","South America",8,5407,211,160,5778
+2004-11-30,"Caribbean","South America",2,NA,10,4,14
+2004-11-30,"Central America","South America",3,71,3,29,103
+2004-11-30,"Northern America","North America",2,215,427,31,673
+2004-11-30,"South America","South America",8,5716,217,148,6081
+2004-12-31,"Caribbean","South America",2,NA,10,4,14
+2004-12-31,"Central America","South America",3,71,5,31,107
+2004-12-31,"Northern America","North America",2,204,510,29,743
+2004-12-31,"South America","South America",8,5763,205,153,6121
+2005-01-31,"Caribbean","South America",2,NA,10,4,14
+2005-01-31,"Central America","South America",3,71,5,29,105
+2005-01-31,"Northern America","North America",2,202,510,30,742
+2005-01-31,"South America","South America",8,5669,205,153,6027
+2005-02-28,"Caribbean","South America",2,NA,10,4,14
+2005-02-28,"Central America","South America",3,71,7,29,107
+2005-02-28,"Northern America","North America",2,212,453,33,698
+2005-02-28,"South America","South America",8,5604,205,154,5963
+2005-03-31,"Caribbean","South America",2,NA,10,4,14
+2005-03-31,"Central America","South America",3,178,7,31,216
+2005-03-31,"Northern America","North America",2,216,441,29,686
+2005-03-31,"South America","South America",8,5938,205,150,6293
+2005-04-30,"Caribbean","South America",2,NA,10,4,14
+2005-04-30,"Central America","South America",3,175,7,35,217
+2005-04-30,"Northern America","North America",2,210,455,25,690
+2005-04-30,"South America","South America",8,5791,204,147,6142
+2005-05-31,"Caribbean","South America",2,NA,10,4,14
+2005-05-31,"Central America","South America",3,178,7,36,221
+2005-05-31,"Northern America","North America",2,212,440,28,680
+2005-05-31,"South America","South America",8,5485,212,161,5858
+2005-06-30,"Caribbean","South America",2,NA,10,4,14
+2005-06-30,"Central America","South America",3,191,5,46,242
+2005-06-30,"Northern America","North America",2,217,440,25,682
+2005-06-30,"South America","South America",8,5479,212,166,5857
+2005-07-31,"Caribbean","South America",2,NA,13,4,17
+2005-07-31,"Central America","South America",3,190,6,47,243
+2005-07-31,"Northern America","North America",2,218,406,17,641
+2005-07-31,"South America","South America",8,5487,219,158,5864
+2005-08-31,"Caribbean","South America",2,NA,13,4,17
+2005-08-31,"Central America","South America",3,190,6,47,243
+2005-08-31,"Northern America","North America",2,223,406,16,645
+2005-08-31,"South America","South America",8,5484,217,159,5860
+2005-09-30,"Caribbean","South America",2,NA,12,4,16
+2005-09-30,"Central America","South America",3,190,7,42,239
+2005-09-30,"Northern America","North America",2,217,439,21,677
+2005-09-30,"South America","South America",8,5665,89,163,5917
+2005-10-31,"Caribbean","South America",2,NA,12,4,16
+2005-10-31,"Central America","South America",3,188,15,49,252
+2005-10-31,"Northern America","North America",2,208,515,45,768
+2005-10-31,"South America","South America",8,5480,83,195,5758
+2005-11-30,"Caribbean","South America",2,NA,15,4,19
+2005-11-30,"Central America","South America",3,186,20,52,258
+2005-11-30,"Northern America","North America",2,222,498,44,764
+2005-11-30,"South America","South America",8,5472,84,218,5774
+2005-12-31,"Caribbean","South America",2,NA,15,4,19
+2005-12-31,"Central America","South America",3,189,21,54,264
+2005-12-31,"Northern America","North America",2,221,495,55,771
+2005-12-31,"South America","South America",8,5487,79,233,5799
+2006-01-31,"Caribbean","South America",2,NA,17,4,21
+2006-01-31,"Central America","South America",3,193,19,54,266
+2006-01-31,"Northern America","North America",2,204,475,61,740
+2006-01-31,"South America","South America",8,5651,80,249,5980
+2006-02-28,"Caribbean","South America",2,NA,17,4,21
+2006-02-28,"Central America","South America",3,191,23,54,268
+2006-02-28,"Northern America","North America",2,206,458,60,724
+2006-02-28,"South America","South America",8,5596,94,245,5935
+2006-03-31,"Caribbean","South America",2,NA,17,4,21
+2006-03-31,"Central America","South America",3,191,21,51,263
+2006-03-31,"Northern America","North America",2,26,453,59,538
+2006-03-31,"South America","South America",8,5609,88,244,5941
+2006-04-30,"Caribbean","South America",3,NA,20,4,24
+2006-04-30,"Central America","South America",3,191,22,54,267
+2006-04-30,"Northern America","North America",2,28,398,52,478
+2006-04-30,"South America","South America",8,5462,79,240,5781
+2006-05-31,"Caribbean","South America",3,NA,20,4,24
+2006-05-31,"Central America","South America",3,191,23,54,268
+2006-05-31,"Northern America","North America",2,26,358,48,432
+2006-05-31,"South America","South America",8,5462,82,239,5783
+2006-06-30,"Caribbean","South America",3,NA,20,4,24
+2006-06-30,"Central America","South America",3,193,21,47,261
+2006-06-30,"Northern America","North America",2,27,390,59,476
+2006-06-30,"South America","South America",8,5578,71,232,5881
+2006-07-31,"Caribbean","South America",3,NA,19,4,23
+2006-07-31,"Central America","South America",3,191,25,54,270
+2006-07-31,"Northern America","North America",2,30,386,51,467
+2006-07-31,"South America","South America",8,5618,85,244,5947
+2006-08-31,"Caribbean","South America",3,NA,16,4,20
+2006-08-31,"Central America","South America",3,190,23,54,267
+2006-08-31,"Northern America","North America",2,24,388,55,467
+2006-08-31,"South America","South America",8,5566,80,242,5888
+2006-09-30,"Caribbean","South America",3,NA,16,4,20
+2006-09-30,"Central America","South America",3,190,23,59,272
+2006-09-30,"Northern America","North America",2,22,377,55,454
+2006-09-30,"South America","South America",9,5782,83,237,6102
+2006-10-31,"Caribbean","South America",3,NA,16,4,20
+2006-10-31,"Central America","South America",3,211,23,53,287
+2006-10-31,"Northern America","North America",2,22,346,54,422
+2006-10-31,"South America","South America",9,5771,77,242,6090
+2006-11-30,"Caribbean","South America",3,NA,14,4,18
+2006-11-30,"Central America","South America",3,213,26,53,292
+2006-11-30,"Northern America","North America",2,26,376,58,460
+2006-11-30,"South America","South America",9,5767,72,226,6065
+2006-12-31,"Caribbean","South America",3,NA,14,4,18
+2006-12-31,"Central America","South America",3,211,26,50,287
+2006-12-31,"Northern America","North America",2,24,383,49,456
+2006-12-31,"South America","South America",9,5802,74,223,6099
+2007-01-31,"Caribbean","South America",3,NA,14,4,18
+2007-01-31,"Central America","South America",3,212,24,50,286
+2007-01-31,"Northern America","North America",2,24,375,58,457
+2007-01-31,"South America","South America",9,5807,74,231,6112
+2007-02-28,"Caribbean","South America",3,NA,14,4,18
+2007-02-28,"Central America","South America",3,212,26,52,290
+2007-02-28,"Northern America","North America",2,23,377,58,458
+2007-02-28,"South America","South America",9,5816,82,260,6158
+2007-03-31,"Caribbean","South America",3,NA,14,4,18
+2007-03-31,"Central America","South America",3,212,37,52,301
+2007-03-31,"Northern America","North America",2,23,380,57,460
+2007-03-31,"South America","South America",9,5801,86,262,6149
+2007-04-30,"Caribbean","South America",2,NA,12,4,16
+2007-04-30,"Central America","South America",3,213,32,51,296
+2007-04-30,"Northern America","North America",2,23,358,58,439
+2007-04-30,"South America","South America",9,5814,85,264,6163
+2007-05-31,"Caribbean","South America",2,NA,12,4,16
+2007-05-31,"Central America","South America",3,213,29,47,289
+2007-05-31,"Northern America","North America",2,24,365,57,446
+2007-05-31,"South America","South America",9,5813,88,262,6163
+2007-06-30,"Caribbean","South America",2,NA,11,4,15
+2007-06-30,"Central America","South America",3,228,32,55,315
+2007-06-30,"Northern America","North America",2,24,365,56,445
+2007-06-30,"South America","South America",9,5814,86,266,6166
+2007-07-31,"Caribbean","South America",2,NA,13,4,17
+2007-07-31,"Central America","South America",3,227,32,54,313
+2007-07-31,"Northern America","North America",2,24,351,57,432
+2007-07-31,"South America","South America",9,5817,77,267,6161
+2007-08-31,"Caribbean","South America",3,NA,18,4,22
+2007-08-31,"Central America","South America",3,227,31,52,310
+2007-08-31,"Northern America","North America",2,25,353,55,433
+2007-08-31,"South America","South America",9,5814,86,259,6159
+2007-09-30,"Caribbean","South America",3,NA,19,4,23
+2007-09-30,"Central America","South America",3,227,31,55,313
+2007-09-30,"Northern America","North America",2,25,356,57,438
+2007-09-30,"South America","South America",9,5811,89,272,6172
+2007-10-31,"Caribbean","South America",3,NA,17,4,21
+2007-10-31,"Central America","South America",3,227,31,54,312
+2007-10-31,"Northern America","North America",2,23,396,58,477
+2007-10-31,"South America","South America",9,5816,92,275,6183
+2007-11-30,"Caribbean","South America",3,NA,17,4,21
+2007-11-30,"Central America","South America",3,227,34,54,315
+2007-11-30,"Northern America","North America",2,23,413,59,495
+2007-11-30,"South America","South America",9,5813,86,271,6170
+2007-12-31,"Caribbean","South America",3,NA,17,4,21
+2007-12-31,"Central America","South America",3,227,36,55,318
+2007-12-31,"Northern America","North America",2,23,383,59,465
+2007-12-31,"South America","South America",9,5795,79,268,6142
+2008-01-31,"Caribbean","South America",2,NA,23,NA,23
+2008-01-31,"Central America","South America",3,226,36,53,315
+2008-01-31,"Northern America","North America",2,31,402,55,488
+2008-01-31,"South America","South America",9,5811,80,247,6138
+2008-02-28,"Caribbean","South America",2,NA,32,NA,32
+2008-02-28,"Central America","South America",3,225,37,54,316
+2008-02-28,"Northern America","North America",2,33,391,60,484
+2008-02-28,"South America","South America",9,5810,83,257,6150
+2008-03-31,"Caribbean","South America",2,NA,28,NA,28
+2008-03-31,"Central America","South America",3,229,37,50,316
+2008-03-31,"Northern America","North America",2,35,372,59,466
+2008-03-31,"South America","South America",9,5836,85,251,6172
+2008-04-30,"Caribbean","South America",2,NA,27,NA,27
+2008-04-30,"Central America","South America",3,229,36,51,316
+2008-04-30,"Northern America","North America",2,34,378,59,471
+2008-04-30,"South America","South America",9,5853,82,255,6190
+2008-05-31,"Caribbean","South America",2,NA,27,NA,27
+2008-05-31,"Central America","South America",3,228,38,51,317
+2008-05-31,"Northern America","North America",2,32,367,58,457
+2008-05-31,"South America","South America",9,5926,87,269,6282
+2008-06-30,"Caribbean","South America",2,NA,27,NA,27
+2008-06-30,"Central America","South America",3,227,37,41,305
+2008-06-30,"Northern America","North America",2,31,336,59,426
+2008-06-30,"South America","South America",9,5820,85,259,6164
+2008-07-31,"Caribbean","South America",2,NA,21,NA,21
+2008-07-31,"Central America","South America",3,226,34,39,299
+2008-07-31,"Northern America","North America",2,27,337,55,419
+2008-07-31,"South America","South America",9,5861,78,252,6191
+2008-08-31,"Caribbean","South America",2,NA,19,NA,19
+2008-08-31,"Central America","South America",3,271,33,44,348
+2008-08-31,"Northern America","North America",2,29,401,55,485
+2008-08-31,"South America","South America",9,5746,82,263,6091
+2008-09-30,"Caribbean","South America",2,NA,19,NA,19
+2008-09-30,"Central America","South America",3,298,39,41,378
+2008-09-30,"Northern America","North America",2,31,383,55,469
+2008-09-30,"South America","South America",8,5765,75,261,6101
+2008-10-31,"Caribbean","South America",2,NA,19,NA,19
+2008-10-31,"Central America","South America",3,274,40,48,362
+2008-10-31,"Northern America","North America",2,34,391,50,475
+2008-10-31,"South America","South America",8,5751,76,275,6102
+2008-11-30,"Caribbean","South America",2,NA,24,NA,24
+2008-11-30,"Central America","South America",3,295,35,48,378
+2008-11-30,"Northern America","North America",2,29,303,55,387
+2008-11-30,"South America","South America",8,5787,73,278,6138
+2008-12-31,"Caribbean","South America",2,NA,24,NA,24
+2008-12-31,"Central America","South America",3,278,41,46,365
+2008-12-31,"Northern America","North America",2,34,184,52,270
+2008-12-31,"South America","South America",9,5797,87,274,6158
+2009-01-31,"Caribbean","South America",2,NA,22,NA,22
+2009-01-31,"Central America","South America",3,278,41,46,365
+2009-01-31,"Northern America","North America",2,33,183,53,269
+2009-01-31,"South America","South America",9,5817,71,272,6160
+2009-02-28,"Caribbean","South America",2,NA,20,NA,20
+2009-02-28,"Central America","South America",3,279,43,47,369
+2009-02-28,"Northern America","North America",2,32,185,51,268
+2009-02-28,"South America","South America",9,5824,61,252,6137
+2009-03-31,"Caribbean","South America",2,NA,20,NA,20
+2009-03-31,"Central America","South America",3,277,47,47,371
+2009-03-31,"Northern America","North America",2,34,206,52,292
+2009-03-31,"South America","South America",9,5831,62,235,6128
+2009-04-30,"Caribbean","South America",2,NA,20,NA,20
+2009-04-30,"Central America","South America",3,276,47,40,363
+2009-04-30,"Northern America","North America",2,35,194,51,280
+2009-04-30,"South America","South America",9,5810,69,247,6126
+2009-05-31,"Caribbean","South America",2,NA,20,NA,20
+2009-05-31,"Central America","South America",3,321,45,46,412
+2009-05-31,"Northern America","North America",2,32,196,50,278
+2009-05-31,"South America","South America",9,5826,90,234,6150
+2009-06-30,"Caribbean","South America",2,NA,29,NA,29
+2009-06-30,"Central America","South America",3,322,48,46,416
+2009-06-30,"Northern America","North America",2,25,195,49,269
+2009-06-30,"South America","South America",9,5831,93,237,6161
+2009-07-31,"Caribbean","South America",2,NA,28,NA,28
+2009-07-31,"Central America","South America",3,324,48,45,417
+2009-07-31,"Northern America","North America",2,27,197,47,271
+2009-07-31,"South America","South America",9,5890,101,240,6231
+2009-08-31,"Caribbean","South America",1,NA,25,NA,25
+2009-08-31,"Central America","South America",3,325,53,41,419
+2009-08-31,"Northern America","North America",2,27,186,45,258
+2009-08-31,"South America","South America",9,5820,92,224,6136
+2009-09-30,"Caribbean","South America",1,NA,25,NA,25
+2009-09-30,"Central America","South America",3,325,52,36,413
+2009-09-30,"Northern America","North America",2,27,188,47,262
+2009-09-30,"South America","South America",9,5836,96,237,6169
+2009-10-31,"Caribbean","South America",1,NA,25,NA,25
+2009-10-31,"Central America","South America",3,323,53,39,415
+2009-10-31,"Northern America","North America",2,27,186,47,260
+2009-10-31,"South America","South America",9,5824,101,229,6154
+2009-11-30,"Caribbean","South America",1,NA,25,NA,25
+2009-11-30,"Central America","South America",3,321,49,41,411
+2009-11-30,"Northern America","North America",2,28,177,55,260
+2009-11-30,"South America","South America",9,5809,100,236,6145
+2009-12-31,"Caribbean","South America",2,NA,30,NA,30
+2009-12-31,"Central America","South America",3,322,47,41,410
+2009-12-31,"Northern America","North America",2,28,170,47,245
+2009-12-31,"South America","South America",9,5803,88,235,6126
+2010-01-31,"Caribbean","South America",2,NA,27,NA,27
+2010-01-31,"Central America","South America",3,322,48,44,414
+2010-01-31,"Northern America","North America",2,28,145,49,222
+2010-01-31,"South America","South America",9,5805,109,244,6158
+2010-02-28,"Caribbean","South America",2,NA,22,NA,22
+2010-02-28,"Central America","South America",3,321,47,47,415
+2010-02-28,"Northern America","North America",2,27,171,48,246
+2010-02-28,"South America","South America",9,5805,92,240,6137
+2010-03-31,"Caribbean","South America",2,NA,21,NA,21
+2010-03-31,"Central America","South America",3,329,50,47,426
+2010-03-31,"Northern America","North America",2,41,170,45,256
+2010-03-31,"South America","South America",9,6741,100,233,7074
+2010-04-30,"Caribbean","South America",2,NA,21,NA,21
+2010-04-30,"Central America","South America",3,354,56,45,455
+2010-04-30,"Northern America","North America",2,38,161,47,246
+2010-04-30,"South America","South America",9,6789,109,233,7131
+2010-05-31,"Caribbean","South America",2,NA,20,NA,20
+2010-05-31,"Central America","South America",3,354,54,42,450
+2010-05-31,"Northern America","North America",2,41,181,47,269
+2010-05-31,"South America","South America",9,6942,86,230,7258
+2010-06-30,"Caribbean","South America",2,NA,22,NA,22
+2010-06-30,"Central America","South America",3,354,49,48,451
+2010-06-30,"Northern America","North America",2,42,214,48,304
+2010-06-30,"South America","South America",9,7098,91,224,7413
+2010-07-31,"Caribbean","South America",2,NA,22,NA,22
+2010-07-31,"Central America","South America",3,353,49,47,449
+2010-07-31,"Northern America","North America",2,40,188,48,276
+2010-07-31,"South America","South America",9,6893,95,232,7220
+2010-08-31,"Caribbean","South America",2,NA,22,NA,22
+2010-08-31,"Central America","South America",3,352,48,45,445
+2010-08-31,"Northern America","North America",2,40,216,52,308
+2010-08-31,"South America","South America",9,7017,103,229,7349
+2010-09-30,"Caribbean","South America",2,NA,21,NA,21
+2010-09-30,"Central America","South America",3,353,41,42,436
+2010-09-30,"Northern America","North America",2,39,193,50,282
+2010-09-30,"South America","South America",9,6828,132,228,7188
+2010-10-31,"Caribbean","South America",2,NA,36,NA,36
+2010-10-31,"Central America","South America",3,352,41,40,433
+2010-10-31,"Northern America","North America",2,42,194,48,284
+2010-10-31,"South America","South America",9,6782,122,231,7135
+2010-11-30,"Caribbean","South America",2,NA,33,NA,33
+2010-11-30,"Central America","South America",3,355,40,45,440
+2010-11-30,"Northern America","North America",2,34,204,48,286
+2010-11-30,"South America","South America",9,6780,127,201,7108
+2010-12-31,"Caribbean","South America",2,NA,33,NA,33
+2010-12-31,"Central America","South America",3,353,40,45,438
+2010-12-31,"Northern America","North America",2,34,203,48,285
+2010-12-31,"South America","South America",9,6875,124,211,7210
+2011-01-31,"Caribbean","South America",2,NA,33,NA,33
+2011-01-31,"Central America","South America",3,354,41,47,442
+2011-01-31,"Northern America","North America",2,38,232,52,322
+2011-01-31,"South America","South America",9,7050,114,214,7378
+2011-02-28,"Caribbean","South America",2,NA,33,NA,33
+2011-02-28,"Central America","South America",3,354,36,45,435
+2011-02-28,"Northern America","North America",2,36,224,53,313
+2011-02-28,"South America","South America",9,6938,113,207,7258
+2011-03-31,"Caribbean","South America",2,NA,33,NA,33
+2011-03-31,"Central America","South America",3,354,32,45,431
+2011-03-31,"Northern America","North America",2,36,224,52,312
+2011-03-31,"South America","South America",9,6884,115,206,7205
+2011-04-30,"Caribbean","South America",2,NA,32,NA,32
+2011-04-30,"Central America","South America",3,355,34,41,430
+2011-04-30,"Northern America","North America",2,38,231,54,323
+2011-04-30,"South America","South America",9,6871,107,210,7188
+2011-05-31,"Caribbean","South America",2,NA,32,NA,32
+2011-05-31,"Central America","South America",3,354,37,44,435
+2011-05-31,"Northern America","North America",2,34,239,50,323
+2011-05-31,"South America","South America",9,6869,100,203,7172
+2011-06-30,"Caribbean","South America",2,NA,26,NA,26
+2011-06-30,"Central America","South America",3,355,33,43,431
+2011-06-30,"Northern America","North America",2,34,235,48,317
+2011-06-30,"South America","South America",9,6868,86,212,7166
+2011-07-31,"Caribbean","South America",2,NA,24,NA,24
+2011-07-31,"Central America","South America",3,354,29,35,418
+2011-07-31,"Northern America","North America",2,27,217,28,272
+2011-07-31,"South America","South America",9,6863,83,146,7092
+2011-08-31,"Caribbean","South America",2,NA,25,NA,25
+2011-08-31,"Central America","South America",3,354,32,44,430
+2011-08-31,"Northern America","North America",2,30,231,36,297
+2011-08-31,"South America","South America",9,6855,94,180,7129
+2011-09-30,"Caribbean","South America",2,NA,25,NA,25
+2011-09-30,"Central America","South America",3,353,28,44,425
+2011-09-30,"Northern America","North America",2,35,254,31,320
+2011-09-30,"South America","South America",9,6843,84,167,7094
+2011-10-31,"Caribbean","South America",2,NA,25,NA,25
+2011-10-31,"Central America","South America",3,344,29,44,417
+2011-10-31,"Northern America","North America",2,35,273,34,342
+2011-10-31,"South America","South America",9,6837,109,165,7111
+2011-11-30,"Caribbean","South America",2,NA,25,NA,25
+2011-11-30,"Central America","South America",3,346,32,41,419
+2011-11-30,"Northern America","North America",2,29,262,29,320
+2011-11-30,"South America","South America",9,7076,90,158,7324
+2011-12-31,"Caribbean","South America",2,NA,21,NA,21
+2011-12-31,"Central America","South America",3,344,34,42,420
+2011-12-31,"Northern America","North America",2,30,258,28,316
+2011-12-31,"South America","South America",9,7005,110,156,7271
+2012-01-31,"Caribbean","South America",2,NA,20,NA,20
+2012-01-31,"Central America","South America",3,342,33,37,412
+2012-01-31,"Northern America","North America",2,34,262,30,326
+2012-01-31,"South America","South America",9,6991,114,151,7256
+2012-02-28,"Caribbean","South America",2,NA,20,NA,20
+2012-02-28,"Central America","South America",3,342,32,35,409
+2012-02-28,"Northern America","North America",2,36,261,29,326
+2012-02-28,"South America","South America",9,6980,111,154,7245
+2012-03-31,"Caribbean","South America",2,NA,19,NA,19
+2012-03-31,"Central America","South America",3,343,32,35,410
+2012-03-31,"Northern America","North America",2,35,234,30,299
+2012-03-31,"South America","South America",9,6921,114,153,7188
+2012-04-30,"Caribbean","South America",2,NA,17,NA,17
+2012-04-30,"Central America","South America",3,344,25,35,404
+2012-04-30,"Northern America","North America",2,32,234,26,292
+2012-04-30,"South America","South America",9,6612,114,149,6875
+2012-05-31,"Caribbean","South America",2,NA,17,NA,17
+2012-05-31,"Central America","South America",3,346,24,34,404
+2012-05-31,"Northern America","North America",2,34,234,33,301
+2012-05-31,"South America","South America",9,6618,105,178,6901
+2012-06-30,"Caribbean","South America",2,NA,16,NA,16
+2012-06-30,"Central America","South America",3,346,23,35,404
+2012-06-30,"Northern America","North America",2,33,231,30,294
+2012-06-30,"South America","South America",9,6627,115,175,6917
+2012-07-31,"Caribbean","South America",1,NA,14,NA,14
+2012-07-31,"Central America","South America",3,346,23,35,404
+2012-07-31,"Northern America","North America",2,35,236,32,303
+2012-07-31,"South America","South America",9,6613,114,152,6879
+2012-08-31,"Caribbean","South America",1,NA,14,NA,14
+2012-08-31,"Central America","South America",3,346,25,35,406
+2012-08-31,"Northern America","North America",2,34,233,31,298
+2012-08-31,"South America","South America",9,6611,107,151,6869
+2012-09-30,"Caribbean","South America",1,NA,14,NA,14
+2012-09-30,"Central America","South America",3,346,23,34,403
+2012-09-30,"Northern America","North America",2,30,234,30,294
+2012-09-30,"South America","South America",9,6625,99,160,6884
+2012-10-31,"Caribbean","South America",1,NA,14,NA,14
+2012-10-31,"Central America","South America",3,345,20,34,399
+2012-10-31,"Northern America","North America",2,28,230,27,285
+2012-10-31,"South America","South America",9,6628,99,157,6884
+2012-11-30,"Caribbean","South America",1,NA,13,NA,13
+2012-11-30,"Central America","South America",3,344,17,32,393
+2012-11-30,"Northern America","North America",2,31,224,27,282
+2012-11-30,"South America","South America",9,6643,84,149,6876
+2012-12-31,"Caribbean","South America",1,NA,12,NA,12
+2012-12-31,"Central America","South America",3,343,11,34,388
+2012-12-31,"Northern America","North America",2,30,220,28,278
+2012-12-31,"South America","South America",9,6610,85,143,6838
+2013-01-31,"Caribbean","South America",1,NA,12,NA,12
+2013-01-31,"Central America","South America",3,345,11,28,384
+2013-01-31,"Northern America","North America",2,30,189,28,247
+2013-01-31,"South America","South America",9,6476,82,135,6693
+2013-02-28,"Caribbean","South America",1,NA,12,NA,12
+2013-02-28,"Central America","South America",3,380,10,27,417
+2013-02-28,"Northern America","North America",2,43,188,17,248
+2013-02-28,"South America","South America",9,6450,89,130,6669
+2013-03-31,"Caribbean","South America",1,NA,12,NA,12
+2013-03-31,"Central America","South America",3,380,10,31,421
+2013-03-31,"Northern America","North America",2,43,190,17,250
+2013-03-31,"South America","South America",9,6449,100,130,6679
+2013-04-30,"Caribbean","South America",1,NA,12,NA,12
+2013-04-30,"Central America","South America",3,379,10,30,419
+2013-04-30,"Northern America","North America",2,42,180,17,239
+2013-04-30,"South America","South America",9,6210,99,142,6451
+2013-05-31,"Caribbean","South America",1,NA,12,NA,12
+2013-05-31,"Central America","South America",3,379,11,32,422
+2013-05-31,"Northern America","North America",2,42,181,18,241
+2013-05-31,"South America","South America",9,5943,101,145,6189
+2013-06-30,"Caribbean","South America",1,NA,12,NA,12
+2013-06-30,"Central America","South America",3,379,11,32,422
+2013-06-30,"Northern America","North America",2,79,164,18,261
+2013-06-30,"South America","South America",9,5939,85,145,6169
+2013-07-31,"Central America","South America",3,379,11,32,422
+2013-07-31,"Northern America","North America",2,77,162,18,257
+2013-07-31,"South America","South America",9,5953,90,145,6188
+2013-08-31,"Caribbean","South America",1,NA,1,NA,1
+2013-08-31,"Central America","South America",3,379,10,32,421
+2013-08-31,"Northern America","North America",2,80,169,18,267
+2013-08-31,"South America","South America",9,5979,88,144,6211
+2013-09-30,"Caribbean","South America",1,NA,1,NA,1
+2013-09-30,"Central America","South America",3,378,10,32,420
+2013-09-30,"Northern America","North America",2,74,175,19,268
+2013-09-30,"South America","South America",9,5980,94,147,6221
+2013-10-31,"Caribbean","South America",1,NA,1,NA,1
+2013-10-31,"Central America","South America",3,379,10,31,420
+2013-10-31,"Northern America","North America",2,82,161,26,269
+2013-10-31,"South America","South America",9,5973,86,152,6211
+2013-11-30,"Caribbean","South America",2,2,2,NA,4
+2013-11-30,"Central America","South America",3,379,7,30,416
+2013-11-30,"Northern America","North America",2,43,158,19,220
+2013-11-30,"South America","South America",9,5759,100,151,6010
+2013-12-31,"Caribbean","South America",3,2,14,NA,16
+2013-12-31,"Central America","South America",3,379,4,30,413
+2013-12-31,"Northern America","North America",2,42,172,19,233
+2013-12-31,"South America","South America",9,5945,101,155,6201
+2014-01-31,"Caribbean","South America",3,2,14,NA,16
+2014-01-31,"Central America","South America",3,376,4,31,411
+2014-01-31,"Northern America","North America",2,43,167,19,229
+2014-01-31,"South America","South America",9,6202,96,156,6454
+2014-02-28,"Caribbean","South America",3,2,14,NA,16
+2014-02-28,"Central America","South America",3,413,4,31,448
+2014-02-28,"Northern America","North America",2,52,172,19,243
+2014-02-28,"South America","South America",9,5874,90,148,6112

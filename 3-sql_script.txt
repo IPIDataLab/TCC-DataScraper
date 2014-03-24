@@ -1,0 +1,160 @@
+################################################################################################################################
+###This SQL query reads creates a series of temp tables to add gender contribution data to the main contribution data table
+###It then runs a query on the months most recently entered to generate a CSV for addition to the R datafile
+###
+###Don't forget to convert Tanzania, Macedonia and Moldova to remove commas
+###Format CSV file and add to end of gender in main database
+###columns should conform to date,dateString,gcc,tccIso3Alpha,tccIso3Num,mission
+################################################################################################################################
+
+#set a user defined variable as the month extracted in yyyymmdd format
+SET @extraction_date = 20140131;
+
+#manipulate extracted gender data into contributions table
+CREATE TABLE temp
+SELECT date,date_string,tcc,tcc_iso_3_alpha,tcc_iso_3_num,mission,ip_T AS ip,fpu_T AS fpu,eom_T AS eom,troops_T AS troops,ip_T+fpu_T AS police,eom_T AS observers,total_T AS total
+FROM gender
+WHERE gender.date>=@extraction_date;
+
+ALTER TABLE temp ADD COLUMN milobvs INT DEFAULT 0;
+ALTER TABLE temp ADD COLUMN civpol INT DEFAULT 0;
+
+INSERT INTO contributions
+(date,date_string,tcc,tcc_iso_3_alpha,tcc_iso_3_num,mission,ip,fpu,civpol,milobvs,eom,troops,police,observers,total)
+SELECT temp.date,temp.date_string,temp.tcc,temp.tcc_iso_3_alpha,temp.tcc_iso_3_num,temp.mission,temp.ip,temp.fpu,temp.civpol,temp.milobvs,temp.eom,temp.troops,temp.police,temp.observers,temp.total
+FROM temp;
+
+DROP TABLE temp;
+########################
+SELECT 
+		contributions.date_string AS date,
+		contributions.tcc AS tcc,
+	#tcc IDs
+		contributions.tcc_iso_3_alpha AS tcc_iso_3_alpha,
+	#tcc locators
+		countries.capital AS tcc_capital,
+		countries.cap_long AS tcc_cap_long,
+		countries.cap_lat AS tcc_cap_lat,
+		countries.continent AS tcc_continent,
+		countries.un_region AS tcc_un_region,
+	#tcc groupings
+		countries.un_bloc AS tcc_unbloc,
+		countries.p5g4a3 AS tcc_p5g4a3,
+		countries.nam AS tcc_nam,
+		countries.g77 AS tcc_g77,
+		countries.au AS tcc_au,
+		countries.arab_league AS tcc_arab_league,
+		countries.oic AS tcc_oic,
+		countries.cis AS tcc_cis,
+		countries.g20 AS tcc_g20,
+		countries.eu AS tcc_eu,
+		countries.nato AS tcc_nato,
+		countries.g8 AS tcc_g8,
+		countries.oecd AS tcc_oecd,
+		countries.asean AS tcc_asean,
+		countries.oas AS tcc_oas,
+		countries.shanghai_coop AS tcc_shanghai_coop,
+		countries.gcc AS tcc_gcc,
+		countries.uma AS tcc_uma,
+		countries.comesa AS tcc_comesa,
+		countries.cen_sad AS tcc_cen_sad,
+		countries.eac AS tcc_eac,
+		countries.eccas AS tcc_eccas,
+		countries.ecowas AS tcc_ecowas,
+		countries.igad AS tcc_igad,
+		countries.sadc AS tcc_sadc,
+	#mission IDs
+		contributions.mission,
+		mission.mission_country AS mission_country,
+		mission.mission_country_iso_3_alpha AS mission_iso_3_alpha,
+	#mission locators
+		mission.hq AS mission_hq,
+		mission.longitude AS mission_long,
+		mission.latitude AS mission_lat,
+		mission.continent AS mission_continent,
+		mission.un_region AS mission_un_region,
+	#mission groupings
+		mission.un_bloc AS mission_un_bloc,
+		mission.p5g4a3 AS mission_p5g4a3,
+		mission.nam AS mission_nam,
+		mission.g77 AS mission_g77,
+		mission.au AS mission_au,
+		mission.arab_league AS mission_arab_league,
+		mission.oic AS mission_oic,
+		mission.cis AS mission_cis,
+		mission.g20 AS mission_g20,
+		mission.eu AS mission_eu,
+		mission.nato AS mission_nato,
+		mission.g8 AS mission_g8,
+		mission.oecd AS mission_oecd,
+		mission.asean AS mission_asean,
+		mission.oas AS mission_oas,
+		mission.shanghai_coop AS mission_shanghai_coop,
+		mission.gcc AS mission_gcc,
+		mission.uma AS mission_uma,
+		mission.comesa AS mission_comesa,
+		mission.cen_sad AS mission_cen_sad,
+		mission.eac AS mission_eac,
+		mission.eccas AS mission_eccas,
+		mission.ecowas AS mission_ecowas,
+		mission.igad AS mission_igad,
+		mission.sadc AS mission_sadc,
+	#contribution numbers
+		contributions.eom AS eom,
+		contributions.milobvs AS milobvs,
+		contributions.civpol AS civpol,
+		contributions.fpu AS fpu,
+		contributions.ip AS ip,
+		contributions.troops AS troops,
+		contributions.police AS police,
+		contributions.observers AS observers,
+		contributions.total AS total
+FROM countries,contributions,
+	(SELECT
+		mission.mission AS mission,
+		mission.mission_country AS mission_country,
+		mission.mission_country_iso_3_Alpha AS mission_country_iso_3_alpha,
+		mission.mission_country_iso_3_num AS mission_country_iso_3_num,
+		mission.mission_hq AS hq,
+		mission.mission_long AS longitude,
+		mission.mission_lat AS latitude,
+		countries.continent AS continent,
+		countries.un_bloc AS un_bloc,
+		countries.un_region AS un_region,
+		countries.p5g4a3 AS p5g4a3,
+		countries.nam AS nam,
+		countries.g77 AS g77,
+		countries.au AS au,
+		countries.arab_league AS arab_league,
+		countries.oic AS oic,
+		countries.cis AS cis,
+		countries.g20 AS g20,
+		countries.eu AS eu,
+		countries.nato AS nato,
+		countries.g8 AS g8,
+		countries.oecd AS oecd,
+		countries.asean AS asean,
+		countries.oas AS oas,
+		countries.shanghai_coop AS shanghai_coop,
+		countries.gcc AS gcc,
+		countries.uma AS uma,
+		countries.comesa AS comesa,
+		countries.cen_sad AS cen_sad,
+		countries.eac AS eac,
+		countries.eccas AS eccas,
+		countries.ecowas AS ecowas,
+		countries.igad AS igad,
+		countries.sadc AS sadc
+	FROM mission,countries
+	WHERE countries.iso_3_alpha=mission.mission_country_iso_3_alpha) AS mission
+WHERE countries.iso_3_alpha=contributions.tcc_iso_3_alpha 
+	AND contributions.mission=mission.mission
+	AND contributions.date=@extraction_date;
+
+################################Export as contributions.csv into /Users/cperry1848/Dropbox/Projects/Active/TCC/TCCDataScraper/tcc_files
+
+SELECT date_string AS date, tcc, tcc_iso_3_alpha, mission, ip_M, ip_F, ip_T, fpu_M, fpu_F, fpu_T, eom_M, eom_F, eom_T, troops_M, troops_F, troops_T, total_M, total_F, total_T
+FROM gender
+WHERE gender.date=@extraction_date;
+
+################################Export as gender.csv into /Users/cperry1848/Dropbox/Projects/Active/TCC/TCCDataScraper/tcc_files
